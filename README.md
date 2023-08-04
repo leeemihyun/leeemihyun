@@ -25,4 +25,15 @@
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> &nbsp
 </p>
 
+
+<br>
+<br>
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=BDE84B&height=100&section=footer)
