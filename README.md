@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeemihyun%2Fhit-counter&count_bg=%23D5D5D5&title_bg=%23FFDAF3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3 align="center"><b>❤️About me❤️</b></h3>
+
 <p align="center">Hi There!</p>
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
 <p align="center">Please look forward to my growth. Bye~</p>
